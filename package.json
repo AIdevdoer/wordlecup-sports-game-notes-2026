@@ -1,0 +1,1 @@
+{"name":"wordlecup-sports-game-notes","version":"1.0.0","private":false,"scripts":{"start":"vite --host 0.0.0.0"},"devDependencies":{"vite":"^7.1.3"}}
