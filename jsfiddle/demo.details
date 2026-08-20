@@ -1,0 +1,8 @@
+---
+name: Basketball clue ladder interface note
+description: A small prototype for testing clue order in a browser basketball guessing game.
+authors:
+  - Wordle Cup creator
+normalize_css: no
+load_type: d
+---
